@@ -1,5 +1,5 @@
 const apiKey = "4bcd6da0";
-const baseURL = "http://www.omdbapi.com/";
+const baseURL = "https://www.omdbapi.com/";
 const searchInput = document.querySelector("#search-input");
 const typeSelect = document.querySelector("#type");
 const cardsDiv = document.querySelector(".cards");
